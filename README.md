@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/joshconsultdolphin/spacegame-web-pipeline/_apis/build/status/joshconsultdolphin.mslearn-tailspin-spacegame-web?branchName=refs%2Fpull%2F2%2Fmerge)](https://dev.azure.com/joshconsultdolphin/spacegame-web-pipeline/_build/latest?definitionId=5&branchName=refs%2Fpull%2F2%2Fmerge)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
